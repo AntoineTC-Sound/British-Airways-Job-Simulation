@@ -1,0 +1,999 @@
+Type Of Traveller,Seat Type,Recommended,Rating_Over_10
+Solo Leisure,Economy Class,no,1
+Business,Economy Class,no,1
+Business,Economy Class,no,1
+Solo Leisure,Economy Class,no,1
+Couple Leisure,Premium Economy,no,1
+Couple Leisure,Economy Class,no,6
+Solo Leisure,Premium Economy,no,1
+Family Leisure,Economy Class,no,1
+Business,Business Class,yes,10
+Business,Business Class,yes,7
+Couple Leisure,Business Class,no,3
+Couple Leisure,Business Class,no,4
+Solo Leisure,Business Class,yes,8
+Couple Leisure,Economy Class,no,1
+Business,Business Class,yes,8
+Business,Economy Class,yes,5
+Couple Leisure,Business Class,yes,10
+Couple Leisure,Economy Class,yes,9
+Couple Leisure,Economy Class,no,3
+Solo Leisure,Economy Class,yes,8
+Family Leisure,Economy Class,yes,8
+Business,Business Class,no,3
+Business,Business Class,no,3
+Solo Leisure,Business Class,yes,7
+Solo Leisure,Business Class,no,3
+Family Leisure,Economy Class,no,1
+Family Leisure,Economy Class,yes,7
+Solo Leisure,First Class,no,1
+Business,Business Class,no,3
+Business,Business Class,no,1
+Solo Leisure,Economy Class,no,1
+Couple Leisure,Business Class,no,3
+Solo Leisure,Business Class,yes,10
+Solo Leisure,Economy Class,no,1
+Couple Leisure,Economy Class,no,3
+Solo Leisure,Premium Economy,no,2
+Couple Leisure,Economy Class,no,1
+Couple Leisure,Business Class,yes,10
+Couple Leisure,Economy Class,no,3
+Solo Leisure,Economy Class,no,3
+Solo Leisure,Premium Economy,no,2
+Solo Leisure,First Class,no,5
+Couple Leisure,Economy Class,no,1
+Family Leisure,Premium Economy,yes,8
+Couple Leisure,Economy Class,no,1
+Couple Leisure,Business Class,no,6
+Solo Leisure,Business Class,yes,9
+Family Leisure,Premium Economy,yes,8
+Business,Economy Class,yes,3
+Family Leisure,Business Class,no,2
+Solo Leisure,Economy Class,no,1
+Business,Economy Class,no,6
+Couple Leisure,Economy Class,no,3
+Family Leisure,Economy Class,no,2
+Family Leisure,Business Class,no,1
+Family Leisure,Business Class,no,1
+Family Leisure,Economy Class,no,1
+Business,Economy Class,no,4
+Solo Leisure,Economy Class,yes,9
+Business,Business Class,no,1
+Couple Leisure,Business Class,yes,9
+Family Leisure,Economy Class,no,6
+Family Leisure,Business Class,no,1
+Solo Leisure,Business Class,yes,8
+Solo Leisure,Economy Class,no,6
+Business,Business Class,no,2
+Couple Leisure,Business Class,no,5
+Business,Business Class,no,3
+Solo Leisure,Premium Economy,no,6
+Family Leisure,Business Class,yes,10
+Solo Leisure,Economy Class,no,1
+Family Leisure,Premium Economy,no,1
+Solo Leisure,Business Class,yes,6
+Couple Leisure,Business Class,yes,6
+Business,Business Class,no,4
+Solo Leisure,Economy Class,no,1
+Solo Leisure,Business Class,yes,8
+Couple Leisure,Business Class,no,3
+Solo Leisure,Economy Class,no,4
+Solo Leisure,Economy Class,yes,9
+Solo Leisure,Business Class,yes,9
+Couple Leisure,Economy Class,yes,10
+Solo Leisure,Economy Class,no,1
+Couple Leisure,Economy Class,no,1
+Couple Leisure,Business Class,yes,7
+Family Leisure,Economy Class,no,1
+Solo Leisure,Economy Class,yes,5
+Family Leisure,Economy Class,no,1
+Couple Leisure,First Class,yes,9
+Couple Leisure,Economy Class,no,1
+Business,Economy Class,no,3
+Couple Leisure,Business Class,yes,8
+Couple Leisure,Economy Class,no,1
+Couple Leisure,Economy Class,no,1
+Solo Leisure,Economy Class,no,1
+Couple Leisure,Premium Economy,yes,8
+Solo Leisure,Economy Class,yes,7
+Family Leisure,Economy Class,yes,2
+Couple Leisure,Economy Class,no,3
+Couple Leisure,Business Class,yes,8
+Couple Leisure,Economy Class,no,1
+Solo Leisure,Economy Class,no,6
+Couple Leisure,Economy Class,yes,8
+Business,Economy Class,yes,7
+Couple Leisure,Economy Class,no,1
+Couple Leisure,Economy Class,yes,8
+Solo Leisure,Economy Class,no,3
+Solo Leisure,Economy Class,no,4
+Solo Leisure,Business Class,no,1
+Couple Leisure,Economy Class,no,1
+Solo Leisure,Economy Class,no,1
+Couple Leisure,Economy Class,no,1
+Couple Leisure,Business Class,no,5
+Solo Leisure,Economy Class,no,3
+Business,Business Class,no,5
+Couple Leisure,Economy Class,no,4
+Solo Leisure,Business Class,no,1
+Couple Leisure,Economy Class,no,1
+Couple Leisure,Economy Class,no,2
+Solo Leisure,Economy Class,no,1
+Couple Leisure,Economy Class,no,1
+Couple Leisure,Economy Class,no,1
+Solo Leisure,First Class,yes,10
+Couple Leisure,Business Class,no,1
+Couple Leisure,Economy Class,no,2
+Business,Business Class,no,2
+Couple Leisure,Business Class,no,2
+Business,Economy Class,no,3
+Couple Leisure,Business Class,no,1
+Business,Economy Class,no,3
+Couple Leisure,First Class,no,4
+Business,Business Class,no,1
+Couple Leisure,Economy Class,no,1
+Solo Leisure,Business Class,no,1
+Business,Business Class,no,1
+Business,Economy Class,no,1
+Family Leisure,Economy Class,no,1
+Business,Premium Economy,no,1
+Family Leisure,Economy Class,no,1
+Couple Leisure,Business Class,yes,6
+Couple Leisure,Economy Class,no,1
+Solo Leisure,Economy Class,no,2
+Business,Business Class,no,1
+Couple Leisure,Business Class,yes,8
+Couple Leisure,Business Class,no,1
+Solo Leisure,Economy Class,no,1
+Couple Leisure,Economy Class,no,1
+Solo Leisure,Economy Class,no,1
+Couple Leisure,Business Class,yes,8
+Couple Leisure,Business Class,yes,8
+Business,Premium Economy,no,2
+Solo Leisure,Business Class,no,1
+Couple Leisure,Economy Class,no,1
+Couple Leisure,Premium Economy,no,1
+Solo Leisure,Business Class,no,1
+Solo Leisure,Economy Class,no,1
+Couple Leisure,Business Class,no,1
+Business,Business Class,no,1
+Couple Leisure,Economy Class,no,3
+Business,Business Class,no,1
+Couple Leisure,Business Class,yes,1
+Family Leisure,Economy Class,no,8
+Solo Leisure,Economy Class,no,1
+Solo Leisure,Business Class,yes,1
+Family Leisure,Economy Class,yes,4
+Family Leisure,Business Class,yes,7
+Family Leisure,Economy Class,no,8
+Family Leisure,Economy Class,no,2
+Couple Leisure,Economy Class,yes,2
+Solo Leisure,Economy Class,no,10
+Business,Economy Class,no,1
+Business,Economy Class,no,1
+Solo Leisure,Economy Class,no,1
+Solo Leisure,Business Class,yes,1
+Couple Leisure,Economy Class,no,10
+Couple Leisure,Business Class,yes,1
+Couple Leisure,Business Class,yes,9
+Solo Leisure,Economy Class,no,6
+Family Leisure,Business Class,no,1
+Family Leisure,Economy Class,no,1
+Family Leisure,Economy Class,no,2
+Couple Leisure,Premium Economy,no,1
+Couple Leisure,Economy Class,no,1
+Business,Economy Class,no,1
+Couple Leisure,Business Class,no,4
+Solo Leisure,Economy Class,no,8
+Couple Leisure,Economy Class,no,2
+Family Leisure,Business Class,no,2
+Family Leisure,Business Class,yes,1
+Solo Leisure,Business Class,no,9
+Solo Leisure,Economy Class,no,1
+Couple Leisure,Premium Economy,no,2
+Couple Leisure,Economy Class,no,4
+Solo Leisure,Economy Class,no,2
+Family Leisure,Premium Economy,no,2
+Couple Leisure,Economy Class,no,4
+Couple Leisure,Economy Class,no,1
+Business,Business Class,no,1
+Couple Leisure,Economy Class,no,3
+Solo Leisure,Economy Class,yes,3
+Family Leisure,Economy Class,no,10
+Solo Leisure,Economy Class,no,1
+Couple Leisure,Economy Class,no,1
+Solo Leisure,Economy Class,no,2
+Family Leisure,Economy Class,no,1
+Solo Leisure,Economy Class,no,1
+Couple Leisure,Business Class,no,1
+Solo Leisure,Business Class,no,1
+Solo Leisure,Economy Class,no,2
+Family Leisure,Business Class,yes,4
+Couple Leisure,Economy Class,no,7
+Business,Business Class,no,1
+Couple Leisure,Economy Class,yes,1
+Couple Leisure,Economy Class,no,7
+Family Leisure,Economy Class,no,1
+Solo Leisure,Business Class,no,1
+Solo Leisure,Economy Class,no,2
+Family Leisure,Economy Class,no,1
+Solo Leisure,Economy Class,no,3
+Business,Business Class,no,1
+Solo Leisure,Economy Class,no,1
+Family Leisure,Economy Class,no,1
+Couple Leisure,Economy Class,no,3
+Couple Leisure,Premium Economy,no,1
+Business,Economy Class,no,4
+Solo Leisure,Economy Class,no,1
+Solo Leisure,Business Class,yes,2
+Family Leisure,Economy Class,no,9
+Family Leisure,Economy Class,no,3
+Couple Leisure,Economy Class,no,1
+Family Leisure,Economy Class,no,1
+Solo Leisure,Economy Class,yes,2
+Family Leisure,Economy Class,no,10
+Solo Leisure,Economy Class,no,1
+Family Leisure,Premium Economy,yes,1
+Couple Leisure,Economy Class,no,9
+Couple Leisure,Premium Economy,no,2
+Couple Leisure,Economy Class,yes,1
+Solo Leisure,Economy Class,yes,10
+Business,Business Class,no,10
+Couple Leisure,Business Class,no,2
+Solo Leisure,Business Class,no,4
+Solo Leisure,Economy Class,no,2
+Business,Economy Class,no,1
+Solo Leisure,Economy Class,no,1
+Couple Leisure,Business Class,no,1
+Couple Leisure,Business Class,no,3
+Couple Leisure,Business Class,no,3
+Solo Leisure,Business Class,no,1
+Solo Leisure,Business Class,no,1
+Business,Economy Class,no,1
+Business,Economy Class,no,1
+Couple Leisure,Business Class,no,2
+Couple Leisure,Economy Class,no,5
+Couple Leisure,Premium Economy,no,1
+Family Leisure,Premium Economy,no,2
+Family Leisure,Economy Class,no,1
+Solo Leisure,Premium Economy,yes,1
+Couple Leisure,Economy Class,no,10
+Couple Leisure,Economy Class,no,2
+Family Leisure,Economy Class,no,5
+Solo Leisure,Economy Class,no,1
+Business,Business Class,no,3
+Family Leisure,Economy Class,no,4
+Solo Leisure,Economy Class,no,3
+Business,Economy Class,no,1
+Couple Leisure,Business Class,no,1
+Couple Leisure,Economy Class,no,2
+Solo Leisure,Business Class,yes,1
+Couple Leisure,Business Class,no,9
+Couple Leisure,Economy Class,no,5
+Couple Leisure,Economy Class,no,1
+Couple Leisure,Economy Class,yes,2
+Business,Premium Economy,no,7
+Family Leisure,Economy Class,no,4
+Business,Business Class,no,1
+Solo Leisure,Economy Class,yes,3
+Couple Leisure,Business Class,yes,9
+Business,Economy Class,no,10
+Couple Leisure,Economy Class,no,1
+Couple Leisure,Economy Class,no,3
+Couple Leisure,Economy Class,no,1
+Family Leisure,Economy Class,no,1
+Couple Leisure,Economy Class,yes,1
+Business,Economy Class,no,1
+Couple Leisure,Economy Class,no,3
+Solo Leisure,Premium Economy,yes,2
+Couple Leisure,First Class,no,8
+Solo Leisure,Economy Class,no,3
+Couple Leisure,Economy Class,no,1
+Couple Leisure,Economy Class,no,1
+Couple Leisure,Economy Class,yes,1
+Business,Economy Class,no,7
+Solo Leisure,Economy Class,no,1
+Couple Leisure,Premium Economy,no,2
+Solo Leisure,Economy Class,no,2
+Family Leisure,Economy Class,no,1
+Business,Business Class,no,1
+Solo Leisure,Economy Class,no,2
+Family Leisure,Economy Class,no,1
+Business,Economy Class,no,1
+Business,Economy Class,yes,1
+Couple Leisure,Business Class,no,8
+Solo Leisure,Business Class,no,1
+Solo Leisure,Economy Class,no,1
+Solo Leisure,Economy Class,yes,2
+Couple Leisure,Premium Economy,no,10
+Business,Business Class,no,4
+Solo Leisure,Economy Class,yes,1
+Business,Business Class,yes,8
+Business,Business Class,yes,6
+Family Leisure,Economy Class,no,7
+Family Leisure,Economy Class,no,1
+Couple Leisure,Economy Class,no,1
+Family Leisure,Economy Class,no,4
+Solo Leisure,Economy Class,no,5
+Couple Leisure,Economy Class,yes,1
+Couple Leisure,Economy Class,no,8
+Couple Leisure,Business Class,yes,1
+Solo Leisure,Economy Class,yes,9
+Family Leisure,Economy Class,yes,10
+Business,Economy Class,yes,10
+Couple Leisure,Premium Economy,no,10
+Solo Leisure,Premium Economy,no,2
+Solo Leisure,Economy Class,no,4
+Solo Leisure,First Class,yes,3
+Couple Leisure,Business Class,yes,9
+Couple Leisure,Business Class,yes,9
+Solo Leisure,Business Class,no,9
+Couple Leisure,Economy Class,no,2
+Solo Leisure,Economy Class,no,3
+Family Leisure,Economy Class,yes,2
+Couple Leisure,Business Class,yes,9
+Solo Leisure,Economy Class,no,9
+Solo Leisure,Premium Economy,no,1
+Family Leisure,Economy Class,no,3
+Family Leisure,Economy Class,no,4
+Family Leisure,Economy Class,no,5
+Family Leisure,Business Class,no,1
+Business,Business Class,no,1
+Business,Economy Class,yes,2
+Business,Economy Class,no,8
+Couple Leisure,Business Class,no,6
+Solo Leisure,Premium Economy,no,4
+Solo Leisure,Business Class,no,4
+Solo Leisure,Economy Class,no,3
+Family Leisure,Economy Class,no,1
+Couple Leisure,Economy Class,yes,1
+Couple Leisure,First Class,no,8
+Solo Leisure,Economy Class,no,3
+Business,Business Class,no,1
+Solo Leisure,Economy Class,no,1
+Couple Leisure,Premium Economy,no,2
+Solo Leisure,Premium Economy,no,2
+Business,Business Class,yes,5
+Couple Leisure,Business Class,no,6
+Solo Leisure,Economy Class,yes,1
+Business,Business Class,no,8
+Couple Leisure,Premium Economy,yes,3
+Solo Leisure,Business Class,no,6
+Business,Business Class,no,3
+Family Leisure,Economy Class,no,4
+Business,Economy Class,no,3
+Solo Leisure,Business Class,yes,1
+Solo Leisure,Economy Class,no,9
+Solo Leisure,Business Class,yes,2
+Solo Leisure,Economy Class,yes,7
+Solo Leisure,Economy Class,no,7
+Solo Leisure,Premium Economy,no,1
+Solo Leisure,Economy Class,no,4
+Solo Leisure,Business Class,no,1
+Solo Leisure,Economy Class,no,2
+Solo Leisure,Economy Class,yes,1
+Couple Leisure,Business Class,no,5
+Couple Leisure,Economy Class,no,1
+Solo Leisure,Economy Class,no,1
+Solo Leisure,Economy Class,no,1
+Solo Leisure,Business Class,no,6
+Solo Leisure,Business Class,yes,1
+Solo Leisure,Business Class,yes,9
+Family Leisure,Economy Class,no,9
+Couple Leisure,Business Class,yes,3
+Solo Leisure,Business Class,no,9
+Solo Leisure,Economy Class,yes,2
+Couple Leisure,Economy Class,no,8
+Solo Leisure,Economy Class,no,1
+Couple Leisure,Economy Class,yes,3
+Couple Leisure,Business Class,yes,7
+Solo Leisure,Business Class,yes,8
+Couple Leisure,Economy Class,no,9
+Solo Leisure,Business Class,yes,1
+Business,Economy Class,no,10
+Couple Leisure,Economy Class,yes,3
+Couple Leisure,Business Class,yes,6
+Couple Leisure,Business Class,yes,7
+Solo Leisure,Business Class,no,8
+Solo Leisure,Business Class,yes,3
+Business,Economy Class,no,9
+Solo Leisure,Premium Economy,yes,1
+Solo Leisure,Economy Class,yes,10
+Solo Leisure,Economy Class,yes,10
+Couple Leisure,Economy Class,yes,4
+Business,Business Class,no,5
+Couple Leisure,Economy Class,no,1
+Family Leisure,Economy Class,no,2
+Couple Leisure,Business Class,yes,2
+Business,Economy Class,no,7
+Couple Leisure,Economy Class,no,1
+Couple Leisure,Premium Economy,no,4
+Couple Leisure,Economy Class,yes,1
+Couple Leisure,Economy Class,yes,10
+Solo Leisure,Business Class,no,9
+Solo Leisure,Economy Class,no,1
+Business,Business Class,no,1
+Couple Leisure,Economy Class,yes,1
+Couple Leisure,Economy Class,yes,10
+Family Leisure,Economy Class,no,10
+Couple Leisure,Premium Economy,yes,1
+Family Leisure,Economy Class,no,8
+Solo Leisure,Business Class,no,1
+Solo Leisure,Economy Class,no,1
+Solo Leisure,Economy Class,no,2
+Family Leisure,Business Class,yes,2
+Solo Leisure,Economy Class,no,8
+Family Leisure,Economy Class,no,1
+Couple Leisure,Economy Class,no,1
+Couple Leisure,Economy Class,yes,1
+Couple Leisure,Economy Class,yes,5
+Business,Economy Class,yes,5
+Couple Leisure,Business Class,yes,7
+Family Leisure,Business Class,yes,1
+Family Leisure,Economy Class,no,10
+Solo Leisure,Premium Economy,no,8
+Couple Leisure,Business Class,no,1
+Solo Leisure,Premium Economy,no,2
+Couple Leisure,Premium Economy,no,1
+Couple Leisure,Economy Class,no,4
+Family Leisure,Economy Class,no,1
+Family Leisure,Business Class,no,6
+Couple Leisure,Economy Class,no,1
+Business,Business Class,no,1
+Family Leisure,Economy Class,no,1
+Couple Leisure,Premium Economy,no,1
+Solo Leisure,Economy Class,no,1
+Family Leisure,Economy Class,no,1
+Business,Economy Class,no,1
+Couple Leisure,Economy Class,no,1
+Couple Leisure,Business Class,no,4
+Business,Business Class,no,1
+Couple Leisure,Economy Class,no,4
+Couple Leisure,Economy Class,no,5
+Solo Leisure,Economy Class,no,1
+Couple Leisure,Business Class,yes,1
+Business,Economy Class,no,4
+Couple Leisure,Premium Economy,no,8
+Couple Leisure,Economy Class,no,2
+Family Leisure,Business Class,no,5
+Couple Leisure,Business Class,yes,4
+Family Leisure,Economy Class,yes,1
+Solo Leisure,Business Class,yes,10
+Business,Economy Class,yes,10
+Solo Leisure,Economy Class,yes,10
+Couple Leisure,Economy Class,no,9
+Couple Leisure,Business Class,yes,9
+Couple Leisure,Business Class,no,1
+Family Leisure,Economy Class,no,8
+Family Leisure,Business Class,no,1
+Couple Leisure,Business Class,no,1
+Couple Leisure,Economy Class,no,1
+Business,Economy Class,no,2
+Solo Leisure,Economy Class,no,1
+Solo Leisure,Business Class,no,1
+Solo Leisure,Economy Class,no,1
+Solo Leisure,Economy Class,no,1
+Couple Leisure,Business Class,no,3
+Solo Leisure,Premium Economy,yes,2
+Business,Economy Class,no,4
+Solo Leisure,Economy Class,no,8
+Solo Leisure,Premium Economy,yes,1
+Solo Leisure,Economy Class,no,3
+Solo Leisure,Economy Class,no,10
+Solo Leisure,Economy Class,yes,2
+Family Leisure,Business Class,yes,1
+Couple Leisure,Business Class,yes,10
+Business,Business Class,no,8
+Solo Leisure,Business Class,no,10
+Couple Leisure,Economy Class,no,1
+Couple Leisure,Economy Class,no,1
+Solo Leisure,Business Class,yes,1
+Couple Leisure,Economy Class,no,1
+Couple Leisure,Business Class,no,9
+Family Leisure,Economy Class,yes,1
+Business,Business Class,no,1
+Couple Leisure,Economy Class,yes,7
+Solo Leisure,Economy Class,no,4
+Couple Leisure,Business Class,no,10
+Business,Business Class,yes,1
+Couple Leisure,Economy Class,no,3
+Family Leisure,Business Class,no,9
+Solo Leisure,Business Class,yes,1
+Solo Leisure,Business Class,yes,2
+Couple Leisure,Business Class,yes,9
+Business,Business Class,no,8
+Couple Leisure,Business Class,yes,7
+Business,Economy Class,no,1
+Business,Business Class,no,5
+Solo Leisure,Economy Class,no,1
+Couple Leisure,Business Class,yes,5
+Couple Leisure,Business Class,no,2
+Couple Leisure,Economy Class,no,9
+Business,Business Class,no,4
+Couple Leisure,Economy Class,no,2
+Couple Leisure,Business Class,no,1
+Couple Leisure,Economy Class,no,1
+Couple Leisure,Economy Class,no,3
+Couple Leisure,Economy Class,no,4
+Couple Leisure,Premium Economy,no,1
+Solo Leisure,First Class,no,2
+Family Leisure,Economy Class,no,4
+Couple Leisure,Economy Class,no,3
+Couple Leisure,Premium Economy,no,3
+Business,Economy Class,no,1
+Family Leisure,Premium Economy,no,4
+Business,Business Class,no,1
+Family Leisure,Economy Class,no,1
+Solo Leisure,Premium Economy,yes,2
+Business,Business Class,no,1
+Couple Leisure,Business Class,no,6
+Couple Leisure,Business Class,no,1
+Solo Leisure,Premium Economy,yes,5
+Business,Business Class,no,5
+Business,Economy Class,no,9
+Solo Leisure,Economy Class,no,5
+Family Leisure,Business Class,yes,1
+Couple Leisure,Economy Class,no,1
+Business,Business Class,no,10
+Family Leisure,Business Class,yes,1
+Family Leisure,Business Class,no,2
+Solo Leisure,Business Class,yes,10
+Couple Leisure,Economy Class,yes,1
+Couple Leisure,Business Class,yes,10
+Couple Leisure,Business Class,yes,10
+Couple Leisure,Business Class,no,8
+Couple Leisure,Economy Class,no,8
+Solo Leisure,Economy Class,no,5
+Couple Leisure,Business Class,yes,1
+Solo Leisure,Economy Class,yes,3
+Solo Leisure,Business Class,no,6
+Business,Economy Class,no,10
+Business,Economy Class,no,1
+Couple Leisure,Business Class,no,3
+Family Leisure,Economy Class,no,1
+Business,Business Class,no,1
+Couple Leisure,Business Class,yes,3
+Solo Leisure,Premium Economy,no,3
+Solo Leisure,Business Class,yes,7
+Solo Leisure,Business Class,yes,1
+Family Leisure,Economy Class,no,9
+Business,Economy Class,yes,9
+Couple Leisure,First Class,yes,3
+Solo Leisure,Business Class,no,9
+Couple Leisure,Business Class,yes,9
+Solo Leisure,Economy Class,no,2
+Couple Leisure,Business Class,no,6
+Business,Business Class,no,1
+Family Leisure,Business Class,no,2
+Solo Leisure,Economy Class,no,3
+Solo Leisure,Economy Class,no,1
+Family Leisure,Economy Class,no,1
+Business,Business Class,no,1
+Business,Business Class,no,2
+Solo Leisure,Business Class,no,4
+Solo Leisure,Business Class,yes,1
+Solo Leisure,Economy Class,no,6
+Business,Economy Class,no,8
+Couple Leisure,Business Class,no,2
+Couple Leisure,Business Class,yes,1
+Solo Leisure,Economy Class,no,1
+Solo Leisure,Economy Class,no,5
+Couple Leisure,Economy Class,no,1
+Family Leisure,Economy Class,no,2
+Solo Leisure,Premium Economy,no,2
+Business,Economy Class,yes,4
+Family Leisure,Business Class,yes,2
+Couple Leisure,Business Class,yes,10
+Couple Leisure,Premium Economy,yes,6
+Family Leisure,Economy Class,yes,10
+Business,Economy Class,yes,9
+Family Leisure,Business Class,yes,7
+Business,Economy Class,no,8
+Couple Leisure,Economy Class,yes,8
+Solo Leisure,Premium Economy,yes,3
+Business,Business Class,yes,10
+Solo Leisure,Business Class,no,6
+Solo Leisure,Economy Class,no,10
+Family Leisure,Economy Class,no,1
+Couple Leisure,Business Class,yes,1
+Couple Leisure,Economy Class,no,2
+Business,Business Class,no,7
+Solo Leisure,Premium Economy,yes,1
+Business,Economy Class,yes,1
+Couple Leisure,Economy Class,no,9
+Couple Leisure,Business Class,no,8
+Business,Business Class,no,1
+Couple Leisure,Business Class,yes,2
+Family Leisure,Business Class,yes,3
+Solo Leisure,Economy Class,no,7
+Business,Economy Class,no,8
+Family Leisure,Economy Class,no,3
+Business,Business Class,no,1
+Solo Leisure,Economy Class,no,2
+Couple Leisure,Economy Class,no,1
+Business,Economy Class,no,1
+Solo Leisure,Economy Class,yes,1
+Solo Leisure,Economy Class,yes,1
+Family Leisure,Economy Class,yes,5
+Family Leisure,Business Class,no,10
+Business,Business Class,no,8
+Couple Leisure,Business Class,no,1
+Family Leisure,Economy Class,no,2
+Solo Leisure,Premium Economy,no,6
+Family Leisure,Business Class,yes,1
+Family Leisure,Business Class,yes,1
+Family Leisure,Economy Class,no,8
+Family Leisure,Economy Class,no,7
+Business,Business Class,yes,1
+Solo Leisure,Business Class,no,1
+Couple Leisure,Business Class,yes,2
+Solo Leisure,Economy Class,yes,4
+Couple Leisure,Business Class,yes,8
+Family Leisure,Economy Class,no,9
+Solo Leisure,Economy Class,yes,9
+Business,Business Class,yes,1
+Solo Leisure,Economy Class,yes,9
+Solo Leisure,Economy Class,no,8
+Couple Leisure,Economy Class,no,5
+Family Leisure,Economy Class,no,4
+Solo Leisure,Economy Class,no,1
+Solo Leisure,Economy Class,no,1
+Solo Leisure,Economy Class,yes,1
+Business,First Class,no,1
+Family Leisure,Economy Class,no,10
+Solo Leisure,Economy Class,yes,4
+Solo Leisure,Economy Class,yes,1
+Solo Leisure,Economy Class,yes,9
+Solo Leisure,Premium Economy,no,10
+Solo Leisure,Business Class,yes,10
+Family Leisure,Economy Class,no,4
+Solo Leisure,Economy Class,yes,7
+Couple Leisure,Economy Class,yes,3
+Family Leisure,Economy Class,no,9
+Solo Leisure,Business Class,yes,10
+Couple Leisure,Economy Class,no,5
+Couple Leisure,Economy Class,no,10
+Business,Economy Class,no,1
+Solo Leisure,Economy Class,yes,1
+Solo Leisure,Premium Economy,no,2
+Family Leisure,Economy Class,no,10
+Solo Leisure,Economy Class,no,2
+Business,Economy Class,no,1
+Business,Economy Class,yes,1
+Business,First Class,no,1
+Business,Business Class,no,8
+Couple Leisure,Economy Class,no,1
+Solo Leisure,Premium Economy,no,2
+Couple Leisure,Business Class,no,1
+Solo Leisure,Economy Class,no,1
+Family Leisure,Premium Economy,no,1
+Couple Leisure,Economy Class,no,1
+Couple Leisure,Business Class,yes,1
+Couple Leisure,Business Class,yes,1
+Solo Leisure,Economy Class,no,10
+Business,Economy Class,no,8
+Couple Leisure,Business Class,no,1
+Solo Leisure,Economy Class,yes,2
+Business,Economy Class,no,1
+Business,Economy Class,no,7
+Solo Leisure,Economy Class,no,1
+Solo Leisure,Business Class,no,1
+Solo Leisure,Economy Class,no,1
+Family Leisure,Economy Class,no,3
+Couple Leisure,Economy Class,no,1
+Couple Leisure,Premium Economy,yes,2
+Business,Economy Class,no,3
+Couple Leisure,Economy Class,no,10
+Business,Business Class,no,1
+Business,Business Class,no,1
+Solo Leisure,Economy Class,no,1
+Business,Economy Class,no,1
+Business,Business Class,no,1
+Couple Leisure,Economy Class,no,3
+Solo Leisure,Economy Class,yes,2
+Family Leisure,Economy Class,yes,1
+Couple Leisure,Economy Class,yes,8
+Couple Leisure,Economy Class,yes,9
+Business,Business Class,no,9
+Solo Leisure,Economy Class,no,8
+Solo Leisure,Economy Class,no,2
+Solo Leisure,Premium Economy,yes,1
+Business,Business Class,no,4
+Solo Leisure,First Class,no,10
+Couple Leisure,Premium Economy,no,3
+Couple Leisure,Business Class,no,6
+Solo Leisure,Economy Class,no,1
+Solo Leisure,Economy Class,no,4
+Couple Leisure,Business Class,no,1
+Couple Leisure,Economy Class,no,1
+Solo Leisure,Economy Class,yes,3
+Solo Leisure,Business Class,yes,1
+Solo Leisure,Economy Class,no,9
+Business,Business Class,no,8
+Family Leisure,Economy Class,yes,1
+Couple Leisure,Business Class,yes,3
+Business,Business Class,no,7
+Business,Business Class,no,7
+Couple Leisure,Business Class,yes,3
+Solo Leisure,Economy Class,yes,5
+Business,Business Class,yes,8
+Solo Leisure,Economy Class,no,10
+Solo Leisure,Economy Class,yes,8
+Family Leisure,Economy Class,no,5
+Solo Leisure,Economy Class,yes,6
+Solo Leisure,First Class,yes,1
+Business,Economy Class,no,7
+Couple Leisure,Business Class,no,9
+Solo Leisure,Economy Class,yes,3
+Family Leisure,Economy Class,yes,1
+Family Leisure,Economy Class,no,9
+Couple Leisure,Business Class,yes,8
+Business,Business Class,no,3
+Couple Leisure,Business Class,yes,7
+Solo Leisure,Economy Class,yes,2
+Couple Leisure,Business Class,no,8
+Solo Leisure,Premium Economy,no,7
+Solo Leisure,Business Class,yes,1
+Solo Leisure,Business Class,yes,2
+Business,Business Class,yes,9
+Couple Leisure,Business Class,yes,10
+Couple Leisure,Economy Class,no,3
+Couple Leisure,Economy Class,no,10
+Couple Leisure,Business Class,no,1
+Family Leisure,Business Class,no,3
+Solo Leisure,Economy Class,no,5
+Solo Leisure,Economy Class,no,1
+Solo Leisure,Business Class,yes,3
+Family Leisure,Economy Class,no,2
+Solo Leisure,Economy Class,no,9
+Solo Leisure,Economy Class,yes,3
+Solo Leisure,Economy Class,yes,1
+Solo Leisure,Economy Class,yes,6
+Solo Leisure,Business Class,yes,8
+Couple Leisure,Business Class,yes,9
+Solo Leisure,Economy Class,no,7
+Family Leisure,Economy Class,no,10
+Couple Leisure,Economy Class,no,1
+Business,Economy Class,no,1
+Family Leisure,Premium Economy,no,1
+Couple Leisure,Economy Class,no,4
+Solo Leisure,Economy Class,no,1
+Business,Business Class,yes,1
+Couple Leisure,Economy Class,no,1
+Solo Leisure,Business Class,yes,9
+Business,Economy Class,no,1
+Solo Leisure,Business Class,yes,9
+Family Leisure,Economy Class,no,1
+Couple Leisure,Business Class,yes,8
+Solo Leisure,First Class,yes,1
+Solo Leisure,Business Class,yes,7
+Couple Leisure,Economy Class,yes,9
+Couple Leisure,Business Class,no,8
+Solo Leisure,Business Class,no,8
+Business,Business Class,no,1
+Business,Economy Class,no,3
+Couple Leisure,Economy Class,no,5
+Couple Leisure,Business Class,yes,1
+Business,Premium Economy,no,4
+Solo Leisure,Economy Class,yes,7
+Solo Leisure,Economy Class,no,3
+Solo Leisure,Economy Class,no,10
+Family Leisure,Economy Class,yes,1
+Family Leisure,Economy Class,no,3
+Couple Leisure,Economy Class,no,9
+Business,Business Class,no,4
+Family Leisure,Economy Class,no,5
+Business,Business Class,yes,1
+Solo Leisure,Economy Class,no,1
+Couple Leisure,Economy Class,no,10
+Couple Leisure,Business Class,no,2
+Solo Leisure,Economy Class,yes,2
+Business,Economy Class,yes,2
+Solo Leisure,Economy Class,yes,9
+Family Leisure,Economy Class,yes,9
+Solo Leisure,Economy Class,no,10
+Couple Leisure,Business Class,yes,10
+Couple Leisure,Economy Class,no,3
+Couple Leisure,Business Class,yes,9
+Couple Leisure,Economy Class,no,1
+Business,Premium Economy,no,10
+Couple Leisure,Business Class,no,1
+Solo Leisure,Economy Class,yes,1
+Family Leisure,Economy Class,yes,5
+Couple Leisure,Economy Class,yes,4
+Solo Leisure,Economy Class,no,8
+Business,Economy Class,no,9
+Couple Leisure,Business Class,yes,1
+Solo Leisure,Business Class,yes,3
+Couple Leisure,Economy Class,no,10
+Business,Economy Class,no,10
+Business,Economy Class,no,1
+Business,Business Class,no,1
+Solo Leisure,Economy Class,no,10
+Business,Economy Class,no,2
+Couple Leisure,Premium Economy,no,1
+Solo Leisure,Premium Economy,no,3
+Couple Leisure,Business Class,yes,1
+Couple Leisure,Economy Class,no,2
+Couple Leisure,Economy Class,yes,10
+Business,Economy Class,no,1
+Couple Leisure,Economy Class,no,8
+Couple Leisure,Premium Economy,no,5
+Solo Leisure,Economy Class,yes,1
+Couple Leisure,Economy Class,yes,2
+Couple Leisure,Premium Economy,no,8
+Couple Leisure,Economy Class,yes,9
+Couple Leisure,Economy Class,no,4
+Business,Business Class,yes,9
+Solo Leisure,Economy Class,no,2
+Couple Leisure,Economy Class,yes,10
+Business,Economy Class,no,1
+Solo Leisure,Economy Class,yes,10
+Solo Leisure,Economy Class,yes,1
+Family Leisure,Economy Class,yes,8
+Couple Leisure,Business Class,yes,6
+Couple Leisure,Premium Economy,yes,10
+Couple Leisure,Premium Economy,no,8
+Couple Leisure,Business Class,no,7
+Business,Business Class,yes,1
+Solo Leisure,Premium Economy,yes,5
+Couple Leisure,Economy Class,no,4
+Couple Leisure,Business Class,yes,9
+Couple Leisure,Business Class,yes,1
+Couple Leisure,Economy Class,no,10
+Couple Leisure,Business Class,yes,8
+Family Leisure,Economy Class,no,1
+Solo Leisure,Business Class,yes,7
+Solo Leisure,Economy Class,yes,1
+Couple Leisure,Business Class,no,9
+Business,Economy Class,no,9
+Couple Leisure,Business Class,no,1
+Family Leisure,Premium Economy,no,3
+Couple Leisure,Business Class,no,4
+Solo Leisure,Economy Class,no,5
+Couple Leisure,Business Class,no,5
+Couple Leisure,Economy Class,no,1
+Business,Economy Class,no,1
+Solo Leisure,Economy Class,no,1
+Couple Leisure,Business Class,yes,5
+Couple Leisure,Economy Class,yes,4
+Family Leisure,Business Class,no,10
+Solo Leisure,Business Class,no,9
+Couple Leisure,Business Class,yes,1
+Family Leisure,Economy Class,no,3
+Family Leisure,Economy Class,yes,8
+Couple Leisure,Business Class,no,2
+Business,Premium Economy,no,8
+Couple Leisure,Business Class,no,2
+Family Leisure,Business Class,no,4
+Family Leisure,Economy Class,yes,2
+Solo Leisure,Economy Class,yes,2
+Business,Business Class,no,10
+Solo Leisure,Economy Class,no,10
+Family Leisure,First Class,yes,1
+Business,Business Class,no,1
+Family Leisure,Economy Class,yes,9
+Family Leisure,Premium Economy,no,2
+Couple Leisure,Economy Class,no,10
+Business,Business Class,no,1
+Solo Leisure,Economy Class,no,2
+Family Leisure,Business Class,yes,6
+Family Leisure,Economy Class,yes,5
+Couple Leisure,Premium Economy,no,10
+Family Leisure,Economy Class,no,9
+Family Leisure,Economy Class,yes,1
+Family Leisure,Economy Class,yes,3
+Business,Economy Class,no,10
+Business,Business Class,no,6
+Solo Leisure,Economy Class,yes,1
+Couple Leisure,Business Class,no,1
+Couple Leisure,Business Class,no,10
+Solo Leisure,Economy Class,no,2
+Solo Leisure,Economy Class,no,2
+Solo Leisure,Economy Class,no,1
+Couple Leisure,Economy Class,no,2
+Solo Leisure,Economy Class,no,1
+Couple Leisure,Business Class,no,1
+Couple Leisure,Economy Class,no,1
+Family Leisure,Economy Class,no,1
+Couple Leisure,Economy Class,no,1
+Family Leisure,Economy Class,yes,1
+Solo Leisure,Business Class,no,3
+Couple Leisure,Economy Class,yes,8
+Family Leisure,Economy Class,yes,1
+Business,Premium Economy,no,9
+Solo Leisure,Business Class,no,6
+Business,Economy Class,no,3
+Solo Leisure,Economy Class,yes,2
+Family Leisure,Economy Class,no,5
+Business,Business Class,no,6
+Family Leisure,Economy Class,yes,2
+Family Leisure,Economy Class,yes,1
+Family Leisure,Economy Class,no,8
+Solo Leisure,Premium Economy,yes,5
+Family Leisure,Economy Class,yes,1
+Solo Leisure,Business Class,no,10
+Solo Leisure,Business Class,yes,9
+Couple Leisure,Business Class,no,3
+Business,Business Class,no,8
+Family Leisure,Premium Economy,yes,2
+Couple Leisure,Business Class,no,2
+Solo Leisure,Economy Class,no,7
+Business,Business Class,no,1
+Family Leisure,Economy Class,no,1
+Couple Leisure,Economy Class,no,3
+Couple Leisure,Economy Class,no,1
+Solo Leisure,Economy Class,no,1
+Business,Economy Class,yes,1
+Couple Leisure,Economy Class,no,3
+Solo Leisure,Economy Class,yes,9
+Business,Economy Class,no,2
+Solo Leisure,Economy Class,yes,10
+Business,Economy Class,no,1
+Solo Leisure,Economy Class,yes,10
+Family Leisure,Economy Class,yes,1
+Family Leisure,Business Class,yes,7
+Couple Leisure,Business Class,yes,10
+Couple Leisure,Economy Class,yes,10
+Couple Leisure,Economy Class,yes,10
+Business,Economy Class,no,6
+Solo Leisure,Economy Class,no,8
+Business,Economy Class,yes,3
+Family Leisure,Economy Class,no,1
+Solo Leisure,Economy Class,no,5
+Solo Leisure,Business Class,no,5
+Solo Leisure,Economy Class,no,6
+Solo Leisure,Economy Class,no,1
+Business,Business Class,no,7
+Solo Leisure,Economy Class,no,3
+Couple Leisure,Economy Class,no,1
+Solo Leisure,Economy Class,no,3
+Solo Leisure,Economy Class,no,4
+Family Leisure,Economy Class,yes,3
+Business,Business Class,no,5
+Solo Leisure,First Class,yes,10
+Couple Leisure,Economy Class,no,1
+Family Leisure,Economy Class,no,10
+Couple Leisure,Economy Class,no,1
+Business,Economy Class,yes,8
+Couple Leisure,First Class,yes,1
+Couple Leisure,Economy Class,no,6
+Couple Leisure,Economy Class,yes,8
+Couple Leisure,Economy Class,no,1
+Business,Economy Class,yes,10
+Couple Leisure,Business Class,yes,5
+Couple Leisure,Business Class,yes,9
+Couple Leisure,Business Class,yes,10
+Business,Economy Class,no,9
+Couple Leisure,Economy Class,no,7
+Solo Leisure,Economy Class,no,1
+Solo Leisure,Business Class,no,5
+Business,Economy Class,no,3
+Couple Leisure,Economy Class,no,4
+Couple Leisure,Economy Class,no,3
+Family Leisure,Business Class,yes,3
+Solo Leisure,Economy Class,yes,4
+Solo Leisure,Economy Class,yes,10
+Couple Leisure,First Class,yes,8
+Couple Leisure,Economy Class,yes,6
+Business,Economy Class,no,7
+Business,Business Class,no,8
+Couple Leisure,Premium Economy,no,1
+Business,Business Class,no,1
+Couple Leisure,Economy Class,yes,1
+Couple Leisure,Business Class,no,2
+Business,First Class,yes,9
+Solo Leisure,Economy Class,yes,1
+Business,Business Class,no,8
+Couple Leisure,Economy Class,no,10
+Business,Economy Class,yes,2
+Couple Leisure,Economy Class,no,1
+Solo Leisure,Business Class,yes,9
+Couple Leisure,Business Class,yes,1
+Couple Leisure,Business Class,yes,10
+Solo Leisure,Economy Class,no,10
+Business,Business Class,no,8
+Business,Economy Class,no,2
+Couple Leisure,Economy Class,yes,4
+Business,Business Class,no,1
+Solo Leisure,Economy Class,yes,9
